@@ -1,0 +1,13 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial,sans-serif;
+}
+body{
+    background-color: rgb(0,0,0);
+    
+
+}
+.title{
+    color:white !important;
+   
+}
